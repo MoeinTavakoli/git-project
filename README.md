@@ -11,6 +11,7 @@ sample user like
 - [Moein Tavakoli]( https://github.com/MoeinTavakoli )
 - [HamidReza Farahani]( https://github.com/hr-farahani )
 - [Zohreh Moarref]( https://github.com/moarref93 )
+- [Mahan Rezaei]( https://github.com/mahanrezaie )
 
 
 
@@ -173,6 +174,33 @@ Remove specific file from Git but keep locally:
 ```bash
 git rm --cached filename
 ```
+
+### 🌿 13. Work with Branches
+
+Create a new branch:
+
+```bash
+git branch branchname
+```
+
+Switch to a branch:
+
+```bash
+git checkout branchname
+```
+
+Remove a local branch:
+
+```bash
+git branch -d branchname
+```
+
+Remove a remote branch:
+
+```bash
+git push origin --delete branchname
+```
+
 
 ---
 
