@@ -13,6 +13,7 @@ sample user like
 - [Zohreh Moarref]( https://github.com/moarref93 )
 - [ Mahan Rezaie ]( https://github.com/mahanrezaie )
 - [Mahan Sahebdel](https://github.com/mahansahebdel)
+- [Maedeh Farajollahi](https://github.com/MaedehFarajollahi/)
 
 
 # 🚀 Git Guide for Beginners
