@@ -123,7 +123,7 @@ fruits = ["apple", "banana", "cherry"]
 dimensions = (1920, 1080)
 
 # Dictionary
-person = {"name": "Bob", "age": 30}
+person = {"name": "ZoHrEh", "age": 3}
 ```
 
 ---
