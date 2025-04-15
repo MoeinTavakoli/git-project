@@ -15,6 +15,7 @@ sample user like
 - [Mahan Sahebdel](https://github.com/mahansahebdel)
 - [Maedeh Farajollahi](https://github.com/MaedehFarajollahi/)
 - [Mehraban Baghery](https://github.com/Mehrabanbaghery)
+- [Ghazal Torabi](https://github.com/Ghazal070)
 
 # 🚀 Git Guide for Beginners
 
