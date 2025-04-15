@@ -1,20 +1,21 @@
-# Git project 
+# Git project
 
-This project used for git tutorial . 
+This project used for git tutorial .
 
-### List contributer 
+### List contributer
 
 sample user like
 
- `- [Yourname](your github profile url)`
+`- [Yourname](your github profile url)`
 
-- [Moein Tavakoli]( https://github.com/MoeinTavakoli )
-- [HamidReza Farahani]( https://github.com/hr-farahani )
-- [Zohreh Moarref]( https://github.com/moarref93 )
-- [ Mahan Rezaie ]( https://github.com/mahanrezaie )
+- [Moein Tavakoli](https://github.com/MoeinTavakoli)
+- [HamidReza Farahani](https://github.com/hr-farahani)
+- [Zohreh Moarref](https://github.com/moarref93)
+- [ Mahan Rezaie ](https://github.com/mahanrezaie)
 - [Mahan Sahebdel](https://github.com/mahansahebdel)
 - [Maedeh Farajollahi](https://github.com/MaedehFarajollahi/)
 - [Mehraban Baghery](https://github.com/Mehrabanbaghery)
+- [Amir Kouchaki](https://github.com/amirKouchaki)
 
 # 🚀 Git Guide for Beginners
 
@@ -78,6 +79,12 @@ Create a snapshot of your project:
 
 ```bash
 git commit -m "Your commit message"
+```
+
+Create a commit and add files to staging at the same time:
+
+```bash
+git commit -am "Your commit message"
 ```
 
 ---
@@ -206,10 +213,15 @@ Remove a remote branch:
 git push origin --delete branch-name
 ```
 
+Another option for removing a branch (if local branch is deleted):
+
+```bash
+git push origin :branch-name
+```
+
 ---
 
 ### 📚 More Git Resources
 
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Docs](https://docs.github.com/en/get-started)
-
